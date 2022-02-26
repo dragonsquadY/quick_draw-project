@@ -1,0 +1,19 @@
+body{
+    background-color: greenyellow;
+}
+
+#Score{
+    font-size: 30px;
+    font-weight: bold;
+    margin:left;
+    margin-left: 100px;
+}
+#Timer{
+    font-size: 30px;
+    font-weight: bold;
+    float:right;
+    margin-right: 100px;
+}
+#Sketch_drawn{
+    color: red;
+}
